@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Creative Suite",
+  "description": "A powerful web application showcasing a suite of Gemini API features, including advanced image and video generation/editing, multimodal analysis, low-latency chat with thinking mode, and text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
